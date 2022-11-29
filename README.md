@@ -1,5 +1,7 @@
 # Cybersecurity-lab1
 
+My mission is to test a sample blog for potential security vulnerabilities by performing a brute force attack.
+
 ### First, I attempt to login with a random username and password
 
 ### Finding the username
