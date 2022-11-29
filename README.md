@@ -1,6 +1,6 @@
 # Cybersecurity-assignments
 
-### Attempting to login with a random username and password
+### First, I attempt to login with a random username and password
 
 ### Finding the username
 Using a sniper attack to find the username of a registered user on the site.
