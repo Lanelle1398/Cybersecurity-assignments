@@ -3,7 +3,7 @@
 ### First, I attempt to login with a random username and password
 
 ### Finding the username
-Using a sniper attack to find the username of a registered user on the site.
+Secondly, I use a sniper attack to find the username of a registered user on the site.
 3104, the length that differs the most, is the field with a successful username. The username is 'agenda'.
 
 ### Attempting to login as a user by conducting a brute force attack with simple passowrds
