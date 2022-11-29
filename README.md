@@ -1,4 +1,4 @@
-# Cybersecurity-assignment1
+# Cybersecurity-lab1
 
 ### First, I attempt to login with a random username and password
 
