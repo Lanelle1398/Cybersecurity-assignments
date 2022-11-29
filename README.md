@@ -15,5 +15,5 @@ Notice that each request returned a 200 status code, until eventually one return
 ### Results
 ![](https://github.com/Lanelle1398/Cybersecurity-assignments/blob/main/Screen%20Shot%202021-08-23%20at%2010.59.01%20PM.png?raw=true)
 
-<img src="https://github.com/Lanelle1398/Cybersecurity-assignments/blob/main/Screen%20Shot%202021-08-23%20at%2010.59.01%20PM.png?raw=true" length="250" height="300" />
+<img src="https://github.com/Lanelle1398/Cybersecurity-assignments/blob/main/Screen%20Shot%202021-08-23%20at%2010.59.01%20PM.png?raw=true" width="450" height="350" />
 
