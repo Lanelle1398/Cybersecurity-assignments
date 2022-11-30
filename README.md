@@ -20,3 +20,4 @@ Notice that each request returned a 200 status code, until eventually one return
 
 <img src="https://github.com/Lanelle1398/Cybersecurity-assignments/blob/main/Screen%20Shot%202021-08-23%20at%2010.59.01%20PM.png?raw=true" width="650" height="350" />
 
+Disclaimer: This project was perfomed on a practice blog that PortSwigger Academy provided to help individuals cybersecurity.  All cybersecurity strategies utilized here were performed in compliance with the CFAA and local computer security laws.
